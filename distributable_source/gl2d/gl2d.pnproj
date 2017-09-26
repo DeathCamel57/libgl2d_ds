@@ -1,0 +1,1 @@
+<Project name="gl2d"><MagicFolder excludeFolders="CVS;.svn" filter="*.h" name="include" path="include\"><File path="gl2d.h"></File></MagicFolder><MagicFolder excludeFolders="CVS;.svn" filter="*.c;*.cpp" name="source" path="source\"><File path="gl2d.c"></File></MagicFolder><File path="Makefile"></File></Project>
